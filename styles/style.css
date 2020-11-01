@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -38,6 +38,4 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
-  width: 50%;
-  height: auto;
 }
